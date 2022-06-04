@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ICE2_DiseaseCases/1.0.0": {
+        "runtime": {
+          "ICE2_DiseaseCases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ICE2_DiseaseCases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
